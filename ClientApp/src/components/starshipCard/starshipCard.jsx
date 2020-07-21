@@ -5,6 +5,7 @@ const StarshipCard = ({url, selectedShip}) => {
   console.log(selectedShip)
   return (
     <Card style={{width: '18rem'}}>
+      <div>!!!</div>
       <Card.Img variant="top" src={url} />
       <Card.Body>
         <Card.Title>{selectedShip.fullInfo.name}</Card.Title>
