@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;700&display=swap');
+.caption {
+  font-weight: 100;
+  font-size: 50px;
+}
+.main {
+  color: lightsteelblue;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.value {
+  color: lightsteelblue;
+}
+
+A:link {
+  text-decoration: none;
+}
+A:visited {
+  text-decoration: none;
+}
+A:active {
+  text-decoration: none;
+}
+A:hover {
+  text-decoration: none;
+  color: orange;
+}
